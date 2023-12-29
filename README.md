@@ -1,2 +1,2 @@
 # Earth
-for software bootcamp- training for making repo and testing etc.
+for software bootcamp- training for making repo and testing and more testing...
